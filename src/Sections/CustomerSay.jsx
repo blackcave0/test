@@ -44,7 +44,7 @@ export default CustomerSay
 
 
 export const AccordionCard = ({id, name, user_img, message}) => {
-    console.log(id);
+    // console.log(id);
     return (
         <>
             <div id="accordion_card_section" className='d-flex align-items-center'>
